@@ -1,0 +1,14 @@
+D:\.net_Source\课上项目\DAL\bin\Debug\WindowsForms_Student.DAL.dll
+D:\.net_Source\课上项目\DAL\bin\Debug\WindowsForms_Student.DAL.pdb
+D:\.net_Source\课上项目\DAL\bin\Debug\Maticsoft.Common.dll
+D:\.net_Source\课上项目\DAL\bin\Debug\MySql.Data.dll
+D:\.net_Source\课上项目\DAL\bin\Debug\WindowsForms_Student.DBUtility.dll
+D:\.net_Source\课上项目\DAL\bin\Debug\WindowsForms_Student.Model.dll
+D:\.net_Source\课上项目\DAL\bin\Debug\System.Data.SQLite.dll
+D:\.net_Source\课上项目\DAL\bin\Debug\WindowsForms_Student.DBUtility.pdb
+D:\.net_Source\课上项目\DAL\bin\Debug\WindowsForms_Student.Model.pdb
+D:\.net_Source\课上项目\DAL\obj\Debug\DAL.csprojAssemblyReference.cache
+D:\.net_Source\课上项目\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+D:\.net_Source\课上项目\DAL\obj\Debug\DAL.csproj.CopyComplete
+D:\.net_Source\课上项目\DAL\obj\Debug\WindowsForms_Student.DAL.dll
+D:\.net_Source\课上项目\DAL\obj\Debug\WindowsForms_Student.DAL.pdb

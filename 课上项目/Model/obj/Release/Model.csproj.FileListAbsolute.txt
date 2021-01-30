@@ -1,0 +1,4 @@
+D:\.net_Source\课上项目\Model\bin\Release\WindowsForms_Student.Model.dll
+D:\.net_Source\课上项目\Model\obj\Release\Model.csprojAssemblyReference.cache
+D:\.net_Source\课上项目\Model\obj\Release\Model.csproj.CoreCompileInputs.cache
+D:\.net_Source\课上项目\Model\obj\Release\WindowsForms_Student.Model.dll

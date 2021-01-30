@@ -1,0 +1,2 @@
+D:\.net_Source\课上项目\Web\obj\Release\Web.csprojAssemblyReference.cache
+D:\.net_Source\课上项目\Web\obj\Release\Web.csproj.CoreCompileInputs.cache

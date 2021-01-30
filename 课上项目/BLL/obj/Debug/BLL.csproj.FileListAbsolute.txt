@@ -1,0 +1,15 @@
+D:\.net_Source\课上项目\BLL\bin\Debug\WindowsForms_Student.BLL.dll
+D:\.net_Source\课上项目\BLL\bin\Debug\WindowsForms_Student.BLL.pdb
+D:\.net_Source\课上项目\BLL\bin\Debug\WindowsForms_Student.DAL.dll
+D:\.net_Source\课上项目\BLL\bin\Debug\WindowsForms_Student.Model.dll
+D:\.net_Source\课上项目\BLL\bin\Debug\WindowsForms_Student.DBUtility.dll
+D:\.net_Source\课上项目\BLL\bin\Debug\System.Data.SQLite.dll
+D:\.net_Source\课上项目\BLL\bin\Debug\MySql.Data.dll
+D:\.net_Source\课上项目\BLL\bin\Debug\WindowsForms_Student.DAL.pdb
+D:\.net_Source\课上项目\BLL\bin\Debug\WindowsForms_Student.Model.pdb
+D:\.net_Source\课上项目\BLL\bin\Debug\WindowsForms_Student.DBUtility.pdb
+D:\.net_Source\课上项目\BLL\obj\Debug\BLL.csprojAssemblyReference.cache
+D:\.net_Source\课上项目\BLL\obj\Debug\BLL.csproj.CoreCompileInputs.cache
+D:\.net_Source\课上项目\BLL\obj\Debug\BLL.csproj.CopyComplete
+D:\.net_Source\课上项目\BLL\obj\Debug\WindowsForms_Student.BLL.dll
+D:\.net_Source\课上项目\BLL\obj\Debug\WindowsForms_Student.BLL.pdb

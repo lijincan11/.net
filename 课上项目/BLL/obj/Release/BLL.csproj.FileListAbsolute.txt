@@ -1,0 +1,2 @@
+D:\.net_Source\课上项目\BLL\obj\Release\BLL.csprojAssemblyReference.cache
+D:\.net_Source\课上项目\BLL\obj\Release\BLL.csproj.CoreCompileInputs.cache

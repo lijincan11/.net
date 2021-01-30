@@ -1,0 +1,6 @@
+D:\.net_Source\课上项目\Model\bin\Debug\WindowsForms_Student.Model.dll
+D:\.net_Source\课上项目\Model\bin\Debug\WindowsForms_Student.Model.pdb
+D:\.net_Source\课上项目\Model\obj\Debug\Model.csproj.CoreCompileInputs.cache
+D:\.net_Source\课上项目\Model\obj\Debug\WindowsForms_Student.Model.dll
+D:\.net_Source\课上项目\Model\obj\Debug\WindowsForms_Student.Model.pdb
+D:\.net_Source\课上项目\Model\obj\Debug\Model.csprojAssemblyReference.cache

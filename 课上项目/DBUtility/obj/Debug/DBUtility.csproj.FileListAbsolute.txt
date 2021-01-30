@@ -1,0 +1,9 @@
+D:\.net_Source\课上项目\DBUtility\bin\Debug\WindowsForms_Student.DBUtility.dll
+D:\.net_Source\课上项目\DBUtility\bin\Debug\WindowsForms_Student.DBUtility.pdb
+D:\.net_Source\课上项目\DBUtility\bin\Debug\MySql.Data.dll
+D:\.net_Source\课上项目\DBUtility\bin\Debug\System.Data.SQLite.DLL
+D:\.net_Source\课上项目\DBUtility\obj\Debug\DBUtility.csproj.CoreCompileInputs.cache
+D:\.net_Source\课上项目\DBUtility\obj\Debug\DBUtility.csproj.CopyComplete
+D:\.net_Source\课上项目\DBUtility\obj\Debug\WindowsForms_Student.DBUtility.dll
+D:\.net_Source\课上项目\DBUtility\obj\Debug\WindowsForms_Student.DBUtility.pdb
+D:\.net_Source\课上项目\DBUtility\obj\Debug\DBUtility.csprojAssemblyReference.cache
